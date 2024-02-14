@@ -1,10 +1,9 @@
-### Hi there 👋
+https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=@KIMDAB1N&reversal=false&textBg=false&fontSize=50&fontAlignY=74&fontAlign=50&fontColor=ffff&animation=twinkling&desc=I'm%20interested%20in%20the%20interactive%20web😍&descAlignY=50&descAlign=52&section=footer
+
+
+
 
 <!--
-**KIMDAB1N/KIMDAB1N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
